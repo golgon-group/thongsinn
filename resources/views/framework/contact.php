@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta harset="UTF-8">
+    <meta name="description" content="Thong's Inn Hotel Kualanamu Offers a comfortable stay with 3 types of rooms equipped with the best facilities.">
+    <meta name="author" content="Thong's Inn">
+    <meta name="keywords" content="Kualanamu,Hotel Kualanamu,Transit Hotel,Transit Hotel Kualanamu"> 
+    <meta property="og:image" content="www.thongsinn.com/img/bg-img/outdoor-2.jpg">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Title -->
+    <title>Thongs Inn Hotel &amp; Convention Kualanamu</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="./img/core-img/favicon.png">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+     <!-- Header Area Start -->
+     <header class="header-area">
+        <!-- Main Header Start -->
+        <div class="main-header-area">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Classy Menu -->
+                    <nav class="classy-navbar justify-content-between" id="robertoNav">
+
+                        <!-- Logo -->
+                        <a class="nav-brand" href="/"><img  src="./img/core-img/logo-thongsinn.png" alt="" class="img-responsive" ></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler" data-toggle="collapse" data-target="">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu" id="navbarResponsive">
+                            <!-- Menu Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+                            <!-- Nav Start -->
+                            <div class="classynav" id="mynav">
+                                <ul>
+                                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/">Home</a></li>
+                                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/rooms">Rooms</a></li>
+                                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/about">About Us</a></li>
+                                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/contact">Contact</a></li>
+                                </ul>
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header Area End -->
+
+    <!-- Breadcrumb Area Start -->
+    <div class="breadcrumb-area contact-breadcrumb bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/outdoor-1.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="breadcrumb-content text-center mt-100">
+                        <h2 class="page-title">Contact Us</h2>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb justify-content-center">
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb Area End -->
+
+    <!-- Google Maps & Contact Info Area Start -->
+    <section class="google-maps-contact-info">
+        <div class="container-fluid">
+            <div class="google-maps-contact-content">
+                <div class="row">
+                    <!-- Single Contact Info -->
+                    <div class="col-6 col-lg-3">
+                        <div class="single-contact-info">
+                            <i class="fa fa-phone" aria-hidden="true"></i>
+                            <h4>Phone</h4>
+                            <p>+62 813 6220 0707</p>
+                        </div>
+                    </div>
+                    <!-- Single Contact Info -->
+                    <div class="col-6 col-lg-3">
+                        <div class="single-contact-info">
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            <h4>Address</h4>
+                            <p>Jl. Pasar V Kebun Kelapa Kualanamu, Kec. Beringin - 20522 Lubuk Pakam, Deli Serdang - Sumatera Utara</p>
+                        </div>
+                    </div>
+                    <!-- Single Contact Info -->
+                    <div class="col-6 col-lg-3">
+                        <div class="single-contact-info">
+                            <i class="fa fa-clock-o" aria-hidden="true"></i>
+                            <h4>Open time</h4>
+                            <p>24 Hours</p>
+                        </div>
+                    </div>
+                    <!-- Single Contact Info -->
+                    <div class="col-6 col-lg-3">
+                        <div class="single-contact-info">
+                            <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                            <h4>Email</h4>
+                            <p>reservation@thongsinn.com</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Google Maps -->
+                <div class="google-maps">
+                    <iframe src="https://maps.google.com/maps?q=thongs%20inn&t=&z=13&ie=UTF8&iwloc=&output=embed" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Google Maps & Contact Info Area End -->
+
+   
+
+    <!-- Call To Action Area Start -->
+    <section class="roberto-cta-area" id="contact">
+        <div class="container">
+            <div class="cta-content bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/outdoor-1.jpg);">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-7">
+                        <div class="cta-text mb-50">
+                            <h2>Contact us now!</h2>
+                            <h6>Contact (+62) 813 6220 0707 to book directly or for advice</h6>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-5 text-right">
+                        <a href="https://wa.me/6281362200707" class="btn roberto-btn mb-50">Contact Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Call To Action Area End -->
+
+   <!-- Footer Area Start -->
+   <footer class="footer-area section-padding-80-0">
+    <!-- Main Footer Area -->
+    <div class="main-footer-area">
+        <div class="container">
+            <div class="row align-items-baseline justify-content-between">
+                <!-- Single Footer Widget Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-footer-widget mb-80">
+                        <!-- Footer Logo -->
+                        <a class="footer-logo"><h1 style="color:white;">Thong's Inn <br><h4>+62 813 6220 0707</h4></h1></a>
+                        
+                        <span>reservation@thongsinn.com</span>
+                        <span>Jl. Pasar V Kebun Kelapa Kualanamu, Kec. Beringin - 20522 Lubuk Pakam, Deli Serdang - Sumatera Utara</span>
+                    </div>
+                </div>
+
+
+                <!-- Single Footer Widget Area -->
+                <div class="col-12 col-sm-4 col-lg-2">
+                    <div class="single-footer-widget mb-80" id="robertoNav">
+                        <!-- Widget Title -->
+                        <h5 class="widget-title">Links</h5>
+
+                        <!-- Footer Nav -->
+                        <ul class="footer-nav">
+                            <li><a class="nav-link js-scroll-trigger" href="/">Home</a></li>
+                            <li><a class="nav-link js-scroll-trigger" href="/rooms">Our Room</a></li>
+                            <li><a class="nav-link js-scroll-trigger" href="/about">About Us</a></li>
+                            <li><a class="nav-link js-scroll-trigger" href="/contact">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Single Footer Widget Area -->
+                <div class="col-12 col-sm-8 col-lg-4">
+                    <div class="single-footer-widget mb-80">
+                        <!-- Widget Title -->
+                        <h5 class="widget-title">Subscribe Newsletter</h5>
+                        <span>Subscribe our newsletter gor get notification about new updates.</span>
+
+                        <!-- Newsletter Form -->
+                        <form action="index.html" class="nl-form">
+                            <input type="email" class="form-control" placeholder="Enter your email...">
+                            <button type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+                        </form>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    <!-- Copywrite Area -->
+    <div class="container">
+        <div class="copywrite-content">
+            <div class="row align-items-center">
+                <div class="col-12 col-md-8">
+                    <!-- Copywrite Text -->
+                    <div class="copywrite-text">
+                        <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer Area End -->
+
+    <!-- **** All JS Files ***** -->
+    <!-- jQuery 2.2.4 -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Popper -->
+    <script src="js/popper.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- All Plugins -->
+    <script src="js/roberto.bundle.js"></script>
+    <!-- Active -->
+    <script src="js/default-assets/active.js"></script>
+    <script src="js/thongsinn.js"></script>
+
+</body>
+
+</html>
