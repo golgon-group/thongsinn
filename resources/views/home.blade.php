@@ -155,7 +155,7 @@
                 <!-- Content -->
                 <div class="room-content">
                     <h2 data-animation="fadeInUp" data-delay="100ms">Cottage Room</h2>
-                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 320.000,- Nett <span>/ Day</span></h3>
+                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 210.000,- Nett <span>/ Night</span></h3>
                     <ul class="room-feature" data-animation="fadeInUp" data-delay="100ms">
                         <li><span><i class="fa fa-check"></i> Bed</span> <span>: Twin Beds</span></li>
                         <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max person 2</span></li>
