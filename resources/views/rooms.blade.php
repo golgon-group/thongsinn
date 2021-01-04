@@ -36,7 +36,7 @@
                         <!-- Room Content -->
                         <div class="room-content">
                             <h2>Cottage Room</h2>
-                            <h4>Rp.210.000 <span>Nett/ Night</span></h4>
+                            <h4>Rp.550.000 <span>Nett/ Night</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 2 Person</span></h6>
                                 <h6>Bed: <span>Twin Bed or Double Bed</span></h6>
@@ -56,7 +56,7 @@
                         <div class="room-content">
                             <h2>Deluxe Room</h2>
                             <h6>(Temporarily Not Available)</h6>
-                            <h4>Rp.520.000 <span>Nett/ Day</span></h4>
+                            <h4>Rp.700.000 <span>Nett/ Day</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 2 Person</span></h6>
                                 <h6>Bed: <span>Deluxe Twin Bed or Double Bed</span></h6>
@@ -76,7 +76,7 @@
                         <!-- Room Content -->
                         <div class="room-content">
                             <h2>Villa Room</h2>
-                            <h4>Rp.760.000 <span>Nett/ Day</span></h4>
+                            <h4>Rp.950.000 <span>Nett/ Day</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 2 Person</span></h6>
                                 <h6>Bed: <span>Deluxe Twin Bed or Double Bed</span></h6>
