@@ -8,7 +8,7 @@
             <div class="col-12">
                 <div class="breadcrumb-content d-flex align-items-center justify-content-between pb-5">
                     <h2 class="room-title">Villa Room</h2>
-                    <h2 class="room-price">Rp.950.000 <span>/ Per Night</span></h2>
+                    <h2 class="room-price">Rp.760.000 <span>/ Per Night</span></h2>
                 </div>
             </div>
         </div>

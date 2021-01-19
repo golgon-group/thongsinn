@@ -7,8 +7,8 @@
         <div class="row h-100 align-items-end">
             <div class="col-12">
                 <div class="breadcrumb-content d-flex align-items-center justify-content-between pb-5">
-                    <h2 class="room-title">Deluxe Room <span><h6 style="color: white;">(Temporarily Not Available)</h6></span></h2>
-                    <h2 class="room-price">Rp.520.000 <span>/ Per Night</span></h2>
+                    <h2 class="room-title">Deluxe Room</h2>
+                    <h2 class="room-price">Rp.340.000 <span>/ Per Night</span></h2>
                 </div>
             </div>
         </div>
