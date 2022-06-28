@@ -32,7 +32,7 @@
                         <div class="single-contact-info">
                             <i class="fa fa-phone" aria-hidden="true"></i>
                             <h4>Phone</h4>
-                            <p>+62 813 6220 0707</p>
+                            <p>+62 812 1211 1081</p>
                         </div>
                     </div>
                     <!-- Single Contact Info -->
