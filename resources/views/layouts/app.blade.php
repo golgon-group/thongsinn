@@ -79,7 +79,7 @@
                     <div class="col-12 col-md-7">
                         <div class="cta-text mb-50">
                             <h2>Contact us now!</h2>
-                            <h6>Contact (+62) 813 6220 0707 to book directly or for advice</h6>
+                            <h6>Contact (+62) 812 1211 1081 to book directly or for advice</h6>
                         </div>
                     </div>
                     <div class="col-12 col-md-5 text-right">
@@ -101,7 +101,7 @@
                     <div class="col-12">
                         <div class="single-footer-widget mb-80">
                             <!-- Footer Logo -->
-                            <a class="footer-logo"><h1 style="color:white;">Thong's Inn <br><h4>+62 813 6220 0707</h4></h1></a>
+                            <a class="footer-logo"><h1 style="color:white;">Thong's Inn <br><h4>+62 812 1211 1081</h4></h1></a>
                             
                             <span>reservation@thongsinn.com</span>
                             <span>Jl. Pasar V Kebun Kelapa Kualanamu, Kec. Beringin - 20522 Lubuk Pakam, Deli Serdang - Sumatera Utara</span>
