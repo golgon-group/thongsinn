@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title','Deluxe Rooms')
+@section('title', $rooms->name)
 @section('content')
   <!-- Breadcrumb Area Start -->
   <div class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url({{asset('img/bg-img/cottage-double-2.jpg')}});">
@@ -7,8 +7,8 @@
         <div class="row h-100 align-items-end">
             <div class="col-12">
                 <div class="breadcrumb-content d-flex align-items-center justify-content-between pb-5">
-                    <h2 class="room-title">Deluxe Room</h2>
-                    <h2 class="room-price">Rp.340.000 <span>/ Per Night</span></h2>
+                    <h2 class="room-title">{{ $rooms->name }}</h2>
+                    <h2 class="room-price">Rp.{{ $rooms->price }} <span>/ Per Night</span></h2>
                 </div>
             </div>
         </div>
