@@ -155,7 +155,7 @@
                 <!-- Content -->
                 <div class="room-content">
                     <h2 data-animation="fadeInUp" data-delay="100ms">Cottage Room</h2>
-                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 438.000,- Nett <span>/ Night</span></h3>
+                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 495.000,- Nett <span>/ Night</span></h3>
                     <ul class="room-feature" data-animation="fadeInUp" data-delay="100ms">
                         <li><span><i class="fa fa-check"></i> Bed</span> <span>: Twin Beds</span></li>
                         <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max person 2</span></li>
@@ -171,11 +171,45 @@
 
                 <!-- Content -->
                 <div class="room-content">
-                    <h2 data-animation="fadeInUp" data-delay="100ms">Deluxe Room</h2>
-                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 340.000,- Nett <span>/ Night</span></h3>
+                    <h2 data-animation="fadeInUp" data-delay="100ms">Deluxe Room A</h2>
+                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 480.000,- Nett <span>/ Night</span></h3>
                     <ul class="room-feature" data-animation="fadeInUp" data-delay="100ms">
                         <li><span><i class="fa fa-check"></i> Bed</span> <span>: Twin Beds</span></li>
                         <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max person 2</span></li>
+                        <li><span><i class="fa fa-check"></i> Services</span> <span>: AC, Wifi, TV, Work Desk</span></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Single Room Slide -->
+            <div class="single-room-slide d-flex align-items-center">
+                <!-- Thumbnail -->
+                <div class="room-thumbnail h-100 bg-img" style="background-image: url({{asset('img/bg-img/deluxe-double-2.jpg')}});"></div>
+
+                <!-- Content -->
+                <div class="room-content">
+                    <h2 data-animation="fadeInUp" data-delay="100ms">Deluxe Room B</h2>
+                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 425.000,- Nett <span>/ Night</span></h3>
+                    <ul class="room-feature" data-animation="fadeInUp" data-delay="100ms">
+                        <li><span><i class="fa fa-check"></i> Bed</span> <span>: Twin Beds</span></li>
+                        <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max person 2</span></li>
+                        <li><span><i class="fa fa-check"></i> Services</span> <span>: AC, Wifi, TV, Work Desk</span></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Single Room Slide -->
+            <div class="single-room-slide d-flex align-items-center">
+                <!-- Thumbnail -->
+                <div class="room-thumbnail h-100 bg-img" style="background-image: url({{asset('img/bg-img/deluxe-double-2.jpg')}});"></div>
+
+                <!-- Content -->
+                <div class="room-content">
+                    <h2 data-animation="fadeInUp" data-delay="100ms">Deluxe Triple Room B</h2>
+                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 675.000,- Nett <span>/ Night</span></h3>
+                    <ul class="room-feature" data-animation="fadeInUp" data-delay="100ms">
+                        <li><span><i class="fa fa-check"></i> Bed</span> <span>: Triple Beds</span></li>
+                        <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max person 3</span></li>
                         <li><span><i class="fa fa-check"></i> Services</span> <span>: AC, Wifi, TV, Work Desk</span></li>
                     </ul>
                 </div>
@@ -189,7 +223,7 @@
                 <!-- Content -->
                 <div class="room-content">
                     <h2 data-animation="fadeInUp" data-delay="100ms">Villa Room</h2>
-                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 760.000,- Nett <span>/ Night</span></h3>
+                    <h3 data-animation="fadeInUp" data-delay="100ms">Start from IDR 1.000.000,- Nett <span>/ Night</span></h3>
                     <ul class="room-feature" data-animation="fadeInUp" data-delay="100ms">
                         <li><span><i class="fa fa-check"></i> Bed</span> <span>: Twin Beds</span></li>
                         <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max person 2</span></li>
