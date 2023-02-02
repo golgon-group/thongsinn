@@ -42,13 +42,13 @@ Route::get('/rooms/{slug}', function () {
       } else if($name == "deluxe-room-b") {
         $rooms = array(
           'name' => "Deluxe Room B",
-          'price' => "425.000",
+          'price' => "450.000",
           'max_person' => 2
         );
       } else {
         $rooms = array(
           'name' => "Deluxe Triple Room B",
-          'price' => "675.000",
+          'price' => "650.000",
           'max_person' => 3
         );
       }
