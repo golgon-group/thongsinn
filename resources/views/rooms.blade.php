@@ -36,7 +36,7 @@
                         <!-- Room Content -->
                         <div class="room-content">
                             <h2>Cottage Room</h2>
-                            <h4>Rp.400.000 <span>Nett/ Night</span></h4>
+                            <h4>Rp.540.000 <span>Nett/ Night</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 2 Person</span></h6>
                                 <h6>Bed: <span>Twin Bed or Double Bed</span></h6>
