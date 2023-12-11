@@ -55,7 +55,7 @@
                         <!-- Room Content -->
                         <div class="room-content">
                             <h2>Deluxe Room A</h2>
-                            <h4>Rp.480.000 <span>Nett/ Night</span></h4>
+                            <h4>Rp.650.000 <span>Nett/ Night</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 2 Person</span></h6>
                                 <h6>Bed: <span>Deluxe Twin Bed or Double Bed</span></h6>
@@ -75,7 +75,7 @@
                         <!-- Room Content -->
                         <div class="room-content">
                             <h2>Deluxe Room B</h2>
-                            <h4>Rp.450.000 <span>Nett/ Night</span></h4>
+                            <h4>Rp.600.000 <span>Nett/ Night</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 2 Person</span></h6>
                                 <h6>Bed: <span>Deluxe Twin Bed or Double Bed</span></h6>
@@ -95,7 +95,7 @@
                         <!-- Room Content -->
                         <div class="room-content">
                             <h2>Deluxe Triple Room B</h2>
-                            <h4>Rp.650.000 <span>Nett/ Night</span></h4>
+                            <h4>Rp.850.000 <span>Nett/ Night</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 3 Person</span></h6>
                                 <h6>Bed: <span>Deluxe Twin Bed or Double Bed</span></h6>
@@ -115,7 +115,7 @@
                         <!-- Room Content -->
                         <div class="room-content">
                             <h2>Villa Room</h2>
-                            <h4>Rp.650.000 <span>Nett/ Night</span></h4>
+                            <h4>Rp.800.000 <span>Nett/ Night</span></h4>
                             <div class="room-feature">
                                 <h6>Capacity : <span>Max 2 Person</span></h6>
                                 <h6>Bed: <span>Deluxe Twin Bed or Double Bed</span></h6>
